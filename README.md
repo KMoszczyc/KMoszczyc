@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **KMoszczyc/KMoszczyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there
+
+![pudzian-muscles](https://user-images.githubusercontent.com/61971053/128728716-8ec4b66e-b47d-4b8d-88e3-3bf38aad76bc.gif)
