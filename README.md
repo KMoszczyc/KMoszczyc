@@ -1,5 +1,3 @@
-![polska-gurom-polska](https://user-images.githubusercontent.com/61971053/128729238-77b6c7a1-ae8a-4ade-899f-b73aecb63068.gif)
-
 
 <!--
 **KMoszczyc/KMoszczyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
