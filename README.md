@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## About me
 I'm doing masters degree in Computer Science at Wrocław University of Science and Technology. I'm kinda into AI:
-- ![object classification](https://github.com/KMoszczyc/Sentiment-Predictor-CNN)
+- [object classification](https://github.com/KMoszczyc/Sentiment-Predictor-CNN)
 - text analysis
 - neural networks in general
 
