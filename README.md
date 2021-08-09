@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ## About me
 I'm doing masters degree in Computer Science at Wrocław University of Science and Technology. I'm kinda into AI:
-- [object classification](https://github.com/KMoszczyc/Sentiment-Predictor-CNN)
-- text analysis
-- neural networks in general
+- [object classification](https://github.com/KMoszczyc/Cats-n-Dogs-Classsification)
+- [text analysis](https://github.com/KMoszczyc/Sentiment-Predictor-CNN)
+- neural networks in general ([Car AI](https://github.com/KMoszczyc/Car-AI), [Flappy Birds AI](https://github.com/KMoszczyc/Flappy-Birds-AI))
 
 
 
