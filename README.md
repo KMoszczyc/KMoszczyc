@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/kamil-moszczyc-4a31aa204/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ## About me
-I'm doing masters degree in Computer Science at Wrocław University of Science and Technology. I have working experience in C# and Unity Game Engine (DOTS). I'm kinda into AI:
+I'm doing masters degree in Computer Science at Wrocław University of Science and Technology. I have working experience in C# and Unity Game Engine (DOTS). I'm kinda into ML:
 - [Object classification](https://github.com/KMoszczyc/Cats-n-Dogs-Classsification)
 - [Text analysis](https://github.com/KMoszczyc/Sentiment-Predictor-CNN)
 - Neural networks in general ([Car AI](https://github.com/KMoszczyc/Car-AI), [Flappy Birds AI](https://github.com/KMoszczyc/Flappy-Birds-AI))  
