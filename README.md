@@ -55,8 +55,8 @@ I'm doing masters degree in Computer Science at Wrocław University of Science a
 - Neural networks in general ([Car AI](https://github.com/KMoszczyc/Car-AI), [Flappy Birds AI](https://github.com/KMoszczyc/Flappy-Birds-AI))  
 
 Also kinda into web dev (front and back):
-- [YouTube converter](https://github.com/KMoszczyc/youtube-converter)
-- [Discord music bot](https://github.com/KMoszczyc/Discord-Music-Bot)
+- [YouTube converter (HTML, CSS, Node.js)](https://github.com/KMoszczyc/youtube-converter)
+- [Discord music bot (Node.js)](https://github.com/KMoszczyc/Discord-Music-Bot)
 
 
 
