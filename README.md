@@ -58,6 +58,3 @@ Also kinda into web dev (front and back):
 - [YouTube converter (HTML, CSS, Node.js)](https://github.com/KMoszczyc/youtube-converter)
 - [Discord music bot (Node.js)](https://github.com/KMoszczyc/Discord-Music-Bot)
 
-
-
-![polska-gurom-polska](https://user-images.githubusercontent.com/61971053/128729250-6bd0a501-468a-46f2-befe-bddd299ef5a4.gif)
