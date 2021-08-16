@@ -51,5 +51,8 @@ Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![skeleton-dance](https://user-images.githubusercontent.com/61971053/129579747-fe8de18c-9532-429c-871b-41151a4b5f7f.gif)  |  ![skeleton-dance](https://user-images.githubusercontent.com/61971053/129579747-fe8de18c-9532-429c-871b-41151a4b5f7f.gif)
 
-
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/61971053/129579747-fe8de18c-9532-429c-871b-41151a4b5f7f.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/61971053/129579747-fe8de18c-9532-429c-871b-41151a4b5f7f.gif" width="100" /> 
+</p>
 
