@@ -57,6 +57,8 @@ Web dev projects(front and back):
    </ul>
   </div>
  </div>
+ 
+ 
  These are my ML projects:
  - [Object classification (Python, Keras)](https://github.com/KMoszczyc/Cats-n-Dogs-Classsification)
  - [Text analysis (Python, Keras, Flask)](https://github.com/KMoszczyc/Sentiment-Predictor-CNN)
