@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 -->
 
 # :alien: Hi there :alien:
-I'm doing masters degree in Computer Science at Wrocław University of Science and Technology. I have working experience in C# and Unity Game Engine (DOTS). I'm kinda into ML:
+I'm doing masters degree in Computer Science at Wrocław University of Science and Technology. I have working experience in C# and Unity Game Engine (DOTS). These are my ML projects:
 - [Object classification (Python, Keras)](https://github.com/KMoszczyc/Cats-n-Dogs-Classsification)
 - [Text analysis (Python, Keras, Flask)](https://github.com/KMoszczyc/Sentiment-Predictor-CNN)
 - Neural networks in general ([Car AI](https://github.com/KMoszczyc/Car-AI), [Flappy Birds AI](https://github.com/KMoszczyc/Flappy-Birds-AI)) - P5.js
 
-Also kinda into web dev (front and back):
+Web dev projects(front and back):
 - [YouTube converter (HTML, CSS, Node.js)](https://github.com/KMoszczyc/youtube-converter)
 - [Discord music bot (Node.js)](https://github.com/KMoszczyc/Discord-Music-Bot)
-- 
+
 ## Languages
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
