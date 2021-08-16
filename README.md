@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🐒 Hi there 
+# :alien: Hi there :alien:
 I'm doing masters degree in Computer Science at Wrocław University of Science and Technology. I have working experience in C# and Unity Game Engine (DOTS). I'm kinda into ML:
 - [Object classification (Python, Keras)](https://github.com/KMoszczyc/Cats-n-Dogs-Classsification)
 - [Text analysis (Python, Keras, Flask)](https://github.com/KMoszczyc/Sentiment-Predictor-CNN)
