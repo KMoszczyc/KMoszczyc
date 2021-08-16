@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 -->
 
 # :alien: Hi there :alien:
-I'm doing masters degree in Computer Science at Wrocław University of Science and Technology. I have working experience in C# and Unity Game Engine (DOTS). These are my ML projects:
+I'm doing masters degree in Computer Science at Wrocław University of Science and Technology. I have working experience in C# and Unity Game Engine (DOTS).
+
+These are my ML projects:
 - [Object classification (Python, Keras)](https://github.com/KMoszczyc/Cats-n-Dogs-Classsification)
 - [Text analysis (Python, Keras, Flask)](https://github.com/KMoszczyc/Sentiment-Predictor-CNN)
 - Neural networks in general ([Car AI](https://github.com/KMoszczyc/Car-AI), [Flappy Birds AI](https://github.com/KMoszczyc/Flappy-Birds-AI)) - P5.js
