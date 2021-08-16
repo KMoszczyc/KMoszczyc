@@ -1,5 +1,6 @@
 
 
+
 # :alien: Hi there :alien:
 I'm doing masters degree in Computer Science at Wrocław University of Science and Technology. I have working experience in C# and Unity Game Engine (DOTS).
 
@@ -51,8 +52,7 @@ td, th {
    border: none!important;
 }
 </style>
-
-
+![skeleton-dance](https://user-images.githubusercontent.com/61971053/129579747-fe8de18c-9532-429c-871b-41151a4b5f7f.gif)
 | Time         | Length        | Speed              | Mass         |
 | ------------ | ------------- | ------------------ | ------------ |
 | -Millisecond | Millimetre    | Kilometre per hour | Milligram    |
