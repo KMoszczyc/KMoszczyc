@@ -9,14 +9,18 @@
 I'm doing masters degree in Computer Science at Wrocław University of Science and Technology. I have working experience in C# and Unity Game Engine (DOTS).
                                                                                                                                           
 These are my ML projects:
-- [Object classification (Python, Keras)](https://github.com/KMoszczyc/Cats-n-Dogs-Classsification)
-- [Text analysis (Python, Keras, Flask)](https://github.com/KMoszczyc/Sentiment-Predictor-CNN)
-- [Car AI (P5.js)](https://github.com/KMoszczyc/Car-AI)
-- [Flappy Birds AI (P5.js)](https://github.com/KMoszczyc/Flappy-Birds-AI))
+- [Cats n' dogs classification](https://github.com/KMoszczyc/Cats-n-Dogs-Classsification) (Python, Keras)
+- [Sentiment Predictor](https://github.com/KMoszczyc/Sentiment-Predictor-CNN) (Python, Keras, Flask)
+- [Car AI](https://github.com/KMoszczyc/Car-AI) (P5.js)
+- [Flappy Birds AI](https://github.com/KMoszczyc/Flappy-Birds-AI) (P5.js)
                                                                                                                                                  
 Web dev projects(front and back):
-- [YouTube converter (HTML, CSS, Node.js)](https://github.com/KMoszczyc/youtube-converter)
-- [Discord music bot (Node.js)](https://github.com/KMoszczyc/Discord-Music-Bot)
+- [YouTube converter](https://github.com/KMoszczyc/youtube-converter) (HTML, CSS, Node.js)
+- [Discord music bot](https://github.com/KMoszczyc/Discord-Music-Bot) (Node.js)
+
+<p>
+  <a href="https://open.spotify.com/track/6kF5yqnTfh8pitj4zPuz1t" target="_blank"><img width="200" align='right' src="https://user-images.githubusercontent.com/61971053/129586446-08d6660e-1e86-4c5a-b88a-2beb1b6c2d91.gif" alt="spooky skeletor"></a>
+</p>
 
 ## 🐒 Languages 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -50,7 +54,5 @@ Web dev projects(front and back):
 
 ## 📫 Contact 
 <a href="https://www.linkedin.com/in/kamil-moszczyc-4a31aa204/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-
 
 
