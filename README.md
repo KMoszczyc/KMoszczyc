@@ -46,10 +46,11 @@ Web dev projects(front and back):
 ## 📫 Contact 
 <a href="https://www.linkedin.com/in/kamil-moszczyc-4a31aa204/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
+<div>
 
-![skeleton-dance](https://user-images.githubusercontent.com/61971053/129579747-fe8de18c-9532-429c-871b-41151a4b5f7f.gif)  These are my ML projects:
+![skeleton-dance](https://user-images.githubusercontent.com/61971053/129579747-fe8de18c-9532-429c-871b-41151a4b5f7f.gif) These are my ML projects:
 - [Object classification (Python, Keras)](https://github.com/KMoszczyc/Cats-n-Dogs-Classsification)
 - [Text analysis (Python, Keras, Flask)](https://github.com/KMoszczyc/Sentiment-Predictor-CNN)
 - Neural networks in general ([Car AI](https://github.com/KMoszczyc/Car-AI), [Flappy Birds AI](https://github.com/KMoszczyc/Flappy-Birds-AI)) - P5.js
-
+ </div>
 
