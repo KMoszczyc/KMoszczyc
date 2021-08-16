@@ -1,18 +1,4 @@
 
-<!--
-**KMoszczyc/KMoszczyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # :alien: Hi there :alien:
 I'm doing masters degree in Computer Science at Wrocław University of Science and Technology. I have working experience in C# and Unity Game Engine (DOTS).
@@ -60,4 +46,16 @@ Web dev projects(front and back):
 <a href="https://www.linkedin.com/in/kamil-moszczyc-4a31aa204/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+
+| Time         | Length        | Speed              | Mass         |
+| ------------ | ------------- | ------------------ | ------------ |
+| -Millisecond | Millimetre    | Kilometre per hour | Milligram    |
+| Second       | Centimetre    | Foot per second    | Gram         |
+| Minute       | Inch          | Miles per hour     | Ounce        |
 
