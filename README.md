@@ -11,7 +11,8 @@ I'm doing masters degree in Computer Science at Wrocław University of Science a
 These are my ML projects:
 - [Object classification (Python, Keras)](https://github.com/KMoszczyc/Cats-n-Dogs-Classsification)
 - [Text analysis (Python, Keras, Flask)](https://github.com/KMoszczyc/Sentiment-Predictor-CNN)
-- Neural networks in general ([Car AI](https://github.com/KMoszczyc/Car-AI), [Flappy Birds AI](https://github.com/KMoszczyc/Flappy-Birds-AI)) - P5.js
+- [Car AI (P5.js)](https://github.com/KMoszczyc/Car-AI)
+- [Flappy Birds AI (P5.js)](https://github.com/KMoszczyc/Flappy-Birds-AI))
                                                                                                                                                  
 Web dev projects(front and back):
 - [YouTube converter (HTML, CSS, Node.js)](https://github.com/KMoszczyc/youtube-converter)
