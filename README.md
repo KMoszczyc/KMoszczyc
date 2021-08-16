@@ -14,7 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there it's Kamil here🐒
+# 🐒 Hi there 
+I'm doing masters degree in Computer Science at Wrocław University of Science and Technology. I have working experience in C# and Unity Game Engine (DOTS). I'm kinda into ML:
+- [Object classification (Python, Keras)](https://github.com/KMoszczyc/Cats-n-Dogs-Classsification)
+- [Text analysis (Python, Keras, Flask)](https://github.com/KMoszczyc/Sentiment-Predictor-CNN)
+- Neural networks in general ([Car AI](https://github.com/KMoszczyc/Car-AI), [Flappy Birds AI](https://github.com/KMoszczyc/Flappy-Birds-AI)) - P5.js
+
+Also kinda into web dev (front and back):
+- [YouTube converter (HTML, CSS, Node.js)](https://github.com/KMoszczyc/youtube-converter)
+- [Discord music bot (Node.js)](https://github.com/KMoszczyc/Discord-Music-Bot)
+- 
 ## Languages
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -45,16 +54,8 @@ Here are some ideas to get you started:
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Contact
+## 📫 Contact
 <a href="https://www.linkedin.com/in/kamil-moszczyc-4a31aa204/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-## About me
-I'm doing masters degree in Computer Science at Wrocław University of Science and Technology. I have working experience in C# and Unity Game Engine (DOTS). I'm kinda into ML:
-- [Object classification (Python, Keras)](https://github.com/KMoszczyc/Cats-n-Dogs-Classsification)
-- [Text analysis (Python, Keras, Flask)](https://github.com/KMoszczyc/Sentiment-Predictor-CNN)
-- Neural networks in general ([Car AI](https://github.com/KMoszczyc/Car-AI), [Flappy Birds AI](https://github.com/KMoszczyc/Flappy-Birds-AI)) - P5.js
 
-Also kinda into web dev (front and back):
-- [YouTube converter (HTML, CSS, Node.js)](https://github.com/KMoszczyc/youtube-converter)
-- [Discord music bot (Node.js)](https://github.com/KMoszczyc/Discord-Music-Bot)
 
