@@ -6,7 +6,7 @@
   <a href="https://open.spotify.com/track/6kF5yqnTfh8pitj4zPuz1t" target="_blank"><img width="200" align='right' src="https://user-images.githubusercontent.com/61971053/129579747-fe8de18c-9532-429c-871b-41151a4b5f7f.gif" alt="🇫🇺🇳🇳🇾 🇩🇦🇳🇨🇮🇳🇬 🇧🇦🇧🇾, 🇼🇭🇦🇹 🇪🇱🇸🇪​"></a>
 </p>
         
-I'm doing masters degree in Computer Science at Wrocław University of Science and Technology.   I have working experience in C# and Unity Game Engine (DOTS).
+I copy code from stack overflow and pretend it's mine.
                                                                                                                                           
 These are my ML projects:
 - [Cats n' dogs classification](https://github.com/KMoszczyc/Cats-n-Dogs-Classsification) (Python, Keras)
