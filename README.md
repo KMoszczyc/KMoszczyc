@@ -3,7 +3,7 @@
 
 # :alien: Hi there :alien:
 <p>
-  <a href="https://open.spotify.com/track/6kF5yqnTfh8pitj4zPuz1t" target="_blank"><img width="200" align='right' src="https://user-images.githubusercontent.com/61971053/129579747-fe8de18c-9532-429c-871b-41151a4b5f7f.gif" alt="🇫🇺🇳🇳🇾 🇩🇦🇳🇨🇮🇳🇬 🇧🇦🇧🇾, 🇼🇭🇦🇹 🇪🇱🇸🇪​"></a>
+  <a href="" target="_blank"><img width="200" align='right' src="https://user-images.githubusercontent.com/61971053/129579747-fe8de18c-9532-429c-871b-41151a4b5f7f.gif" alt="🇫🇺🇳🇳🇾 🇩🇦🇳🇨🇮🇳🇬 🇧🇦🇧🇾, 🇼🇭🇦🇹 🇪🇱🇸🇪​"></a>
 </p>
         
 I copy code from stack overflow and pretend it's mine.
@@ -19,7 +19,7 @@ Web dev projects(front and back):
 - [Discord music bot](https://github.com/KMoszczyc/Discord-Music-Bot) (Node.js)
 
 <p>
-  <a href="https://open.spotify.com/track/6kF5yqnTfh8pitj4zPuz1t" target="_blank"><img width="200" align='right' src="https://user-images.githubusercontent.com/61971053/129586446-08d6660e-1e86-4c5a-b88a-2beb1b6c2d91.gif" alt="spooky skeletor"></a>
+  <a href="" target="_blank"><img width="200" align='right' src="https://user-images.githubusercontent.com/61971053/129586446-08d6660e-1e86-4c5a-b88a-2beb1b6c2d91.gif" alt="spooky skeletor"></a>
 </p>
 
 ## 🐒 Languages 
