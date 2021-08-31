@@ -11,8 +11,8 @@ I copy code from stack overflow and pretend it's mine.
 These are my ML projects:
 - [Cats n' dogs classification](https://github.com/KMoszczyc/Cats-n-Dogs-Classsification) (Python, Keras)
 - [Sentiment Predictor](https://github.com/KMoszczyc/Sentiment-Predictor-CNN) (Python, Keras, Flask)
-- [Car AI](https://github.com/KMoszczyc/Car-AI) (P5.js)
-- [Flappy Birds AI](https://github.com/KMoszczyc/Flappy-Birds-AI) (P5.js)
+- [Car AI](https://github.com/KMoszczyc/Car-AI) (NN from scratch, Genetic Algorithm, P5.js)
+- [Flappy Birds AI](https://github.com/KMoszczyc/Flappy-Birds-AI) (NN from scratch, Genetic Algorithm, P5.js)
                                                                                                                                                  
 Web dev projects(front and back):
 - [YouTube converter](https://github.com/KMoszczyc/youtube-converter) (HTML, CSS, Node.js)
