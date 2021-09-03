@@ -1,7 +1,7 @@
 
 
 
-# :alien: Hi there :alien:
+# 🦥 Hi there 🦥
 <p>
   <a href="#" target="_blank"><img width="200" align='right' src="https://user-images.githubusercontent.com/61971053/129579747-fe8de18c-9532-429c-871b-41151a4b5f7f.gif" alt="🇫🇺🇳🇳🇾 🇩🇦🇳🇨🇮🇳🇬 🇧🇦🇧🇾, 🇼🇭🇦🇹 🇪🇱🇸🇪​"></a>
 </p>
@@ -31,7 +31,7 @@ Web dev projects(front and back):
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-## 📖 Frameworks, Libraries
+## 🦊 Frameworks, Libraries
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -43,7 +43,7 @@ Web dev projects(front and back):
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-## 🏭 Databases 
+## 🐈 Databases 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
