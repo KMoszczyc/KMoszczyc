@@ -14,7 +14,7 @@ These are my ML projects:
 - [Car AI](https://github.com/KMoszczyc/Car-AI) (NN from scratch, Genetic Algorithm, P5.js)
 - [Flappy Birds AI](https://github.com/KMoszczyc/Flappy-Birds-AI) (NN from scratch, Genetic Algorithm, P5.js)
                                                                                                                                                  
-Web dev projects(front and back):
+Web dev projects (frontend and backend):
 - [YouTube converter](https://github.com/KMoszczyc/youtube-converter) (HTML, CSS, Node.js)
 - [Discord music bot](https://github.com/KMoszczyc/Discord-Music-Bot) (Node.js)
 
