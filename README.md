@@ -2,12 +2,15 @@
 
 
 # 🦥 Hi there 🦥
-<p>
-  <a href="#" target="_blank"><img width="200" align='right' src="https://user-images.githubusercontent.com/61971053/129579747-fe8de18c-9532-429c-871b-41151a4b5f7f.gif" alt="🇫🇺🇳🇳🇾 🇩🇦🇳🇨🇮🇳🇬 🇧🇦🇧🇾, 🇼🇭🇦🇹 🇪🇱🇸🇪​"></a>
-</p>
-        
+ 
 I copy code from stack overflow and pretend it's mine.
-                                                                                                                                          
+
+
+<p>
+  <a href="#" target="_blank"><img width="200" align='right' src="https://user-images.githubusercontent.com/61971053/144747129-d76a8b21-7555-4fb3-b9ef-53cf80957ef0.gif" alt="spooky skeletor"></a>
+</p>
+
+
 These are my ML projects:
 - [Cats n' dogs classification](https://github.com/KMoszczyc/Cats-n-Dogs-Classsification) (Python, Keras)
 - [Sentiment Predictor](https://github.com/KMoszczyc/Sentiment-Predictor-CNN) (Python, Keras, Flask)
@@ -18,9 +21,11 @@ Web dev projects (frontend and backend):
 - [YouTube converter](https://github.com/KMoszczyc/youtube-converter) (HTML, CSS, Node.js)
 - [Discord music bot](https://github.com/KMoszczyc/Discord-Music-Bot) (Node.js)
 
+
 <p>
-  <a href="#" target="_blank"><img width="200" align='right' src="https://user-images.githubusercontent.com/61971053/129586446-08d6660e-1e86-4c5a-b88a-2beb1b6c2d91.gif" alt="spooky skeletor"></a>
+  <a href="#" target="_blank"><img width="200" align='right' src="https://user-images.githubusercontent.com/61971053/129579747-fe8de18c-9532-429c-871b-41151a4b5f7f.gif" alt="🇫🇺🇳🇳🇾 🇩🇦🇳🇨🇮🇳🇬 🇧🇦🇧🇾, 🇼🇭🇦🇹 🇪🇱🇸🇪​"></a>
 </p>
+       
 
 ## 🐒 Languages 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
