@@ -1,10 +1,10 @@
 
 
 
-# 🦥 Hi there 🦥
+# 🦥 Hi there, Kamil here 🦥
  
-I copy code from stack overflow and pretend it's mine.
-
+# Portfolio: [kmoszczyc.github.io](https://kmoszczyc.github.io/)
+<br>
 
 <p>
   <a href="#" target="_blank"><img width="200" align='right' src="https://user-images.githubusercontent.com/61971053/144747129-d76a8b21-7555-4fb3-b9ef-53cf80957ef0.gif" alt="spooky skeletor"></a>
