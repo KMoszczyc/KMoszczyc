@@ -19,6 +19,7 @@ These are my ML projects:
 - [Rain in Australia](https://github.com/KMoszczyc/Rain-in-Australia) (Data Analysis, seaborn, sklearn)
                                                                                                                                                  
 Web dev projects (frontend and backend):
+- [Portfolio](https://kmoszczyc.github.io/)
 - [YouTube converter](https://github.com/KMoszczyc/youtube-converter) (HTML, CSS, Node.js)
 - [Discord music bot](https://github.com/KMoszczyc/Discord-Music-Bot) (Node.js)
 
