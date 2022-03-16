@@ -16,6 +16,7 @@ These are my ML projects:
 - [Sentiment Predictor](https://github.com/KMoszczyc/Sentiment-Predictor-CNN) (Python, Keras, Flask)
 - [Cats n' dogs classification](https://github.com/KMoszczyc/Cats-n-Dogs-Classsification) (Python, Keras)
 - [Flappy Birds AI](https://github.com/KMoszczyc/Flappy-Birds-AI) (NN from scratch, Genetic Algorithm, P5.js)
+- [Rain in Australia](https://github.com/KMoszczyc/Rain-in-Australia) (Data Analysis, seaborn, sklearn)
                                                                                                                                                  
 Web dev projects (frontend and backend):
 - [YouTube converter](https://github.com/KMoszczyc/youtube-converter) (HTML, CSS, Node.js)
