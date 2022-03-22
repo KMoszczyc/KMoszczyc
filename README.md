@@ -18,7 +18,7 @@ These are my ML projects:
 - [Flappy Birds AI](https://github.com/KMoszczyc/Flappy-Birds-AI) (NN from scratch, Genetic Algorithm, P5.js)
 - [Rain in Australia](https://github.com/KMoszczyc/Rain-in-Australia) (Data Analysis, seaborn, sklearn)
                                                                                                                                                  
-Web dev projects (frontend and backend):
+Web dev projects:
 - [Portfolio](https://kmoszczyc.github.io/)
 - [YouTube converter](https://github.com/KMoszczyc/youtube-converter) (HTML, CSS, Node.js)
 - [Discord music bot](https://github.com/KMoszczyc/Discord-Music-Bot) (Node.js)
