@@ -6,9 +6,6 @@
 # Portfolio: [kmoszczyc.github.io](https://kmoszczyc.github.io/)
 <br>
 
-<p>
-  <a href="#" target="_blank"><img width="200" align='right' src="https://user-images.githubusercontent.com/61971053/144747129-d76a8b21-7555-4fb3-b9ef-53cf80957ef0.gif" alt="spooky skeletor"></a>
-</p>
 
 
 These are my ML projects:
@@ -49,6 +46,8 @@ Web dev projects:
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ## 📫 Contact 
 <a href="https://www.linkedin.com/in/kamil-moszczyc-4a31aa204/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
