@@ -48,6 +48,9 @@ Web dev projects:
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://i0.wp.com/cloudcow.com/wp-content/uploads/2020/05/dremio-logo.jpg?fit=820%2C300&ssl=1" alt="drawing" height="28"/>
+<img src="https://www.nicepng.com/png/detail/269-2693339_data-flowing-into-superset-superset-logo-apache-superset.png" height="28"/>
+
 
 ## 📫 Contact 
 <a href="https://www.linkedin.com/in/kamil-moszczyc-4a31aa204/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
