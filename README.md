@@ -1,9 +1,9 @@
 
 
 
-# 🦥 Hi there, Kamil here 🦥
+# Hi there, Kamil here 🦥
  
-# Portfolio: [kmoszczyc.github.io](https://kmoszczyc.github.io/)
+## Portfolio: [kmoszczyc.github.io](https://kmoszczyc.github.io/)
 <br>
 
 
